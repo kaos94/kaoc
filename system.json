@@ -102,7 +102,7 @@
   "primaryTokenAttribute": "attributes.hp",
   "secondaryTokenAttribute": null,
   "url": "https://github.com/kaos94/kaoc",
-  "manifest": "https://raw.githubusercontent.com/ZigmundKreud/coc/master/system.json",
-  "download": "https://github.com/ZigmundKreud/coc/archive/refs/tags/11.302.1.zip",
+  "manifest": "https://raw.githubusercontent.com/kaos94/kaoc/test/system.json",
+  "download": "https://github.com/kaos94/kaoc/archive/refs/tags/11.302.zip",
   "license": "LICENCE"
 }
