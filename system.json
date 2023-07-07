@@ -14,6 +14,9 @@
     },
     {
       "name": "Kristov"
+    },
+	{
+      "name": "kaos94"
     }
   ],
   "scripts": [],
@@ -98,7 +101,7 @@
   "gridUnits": "m",
   "primaryTokenAttribute": "attributes.hp",
   "secondaryTokenAttribute": null,
-  "url": "https://github.com/ZigmundKreud/coc",
+  "url": "https://github.com/kaos94/kaoc",
   "manifest": "https://raw.githubusercontent.com/ZigmundKreud/coc/master/system.json",
   "download": "https://github.com/ZigmundKreud/coc/archive/refs/tags/11.302.1.zip",
   "license": "LICENCE"
