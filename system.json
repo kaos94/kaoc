@@ -103,6 +103,6 @@
   "secondaryTokenAttribute": null,
   "url": "https://github.com/kaos94/kaoc",
   "manifest": "https://raw.githubusercontent.com/kaos94/kaoc/test/system.json",
-  "download": "https://github.com/kaos94/kaoc/archive/refs/tags/11.302.zip",
+  "download": "https://github.com/kaos94/kaoc/archive/refs/tags/v01.zip",
   "license": "LICENCE"
 }
